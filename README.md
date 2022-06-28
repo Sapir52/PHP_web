@@ -21,3 +21,9 @@ JQuery, PHP and MySQL are used.
 ![4](https://user-images.githubusercontent.com/63209732/176039965-1751cd78-400e-412d-9a99-a059038e81a6.png)
 
 ![5](https://user-images.githubusercontent.com/63209732/176039974-92d44e73-b6d0-4226-b627-2430fc334a13.png)
+
+# Run
+
+Create a database named 'loginsystem' and tables named 'user' and 'event' in XAMPP (Described in the file 'db.sql').
+
+Run the 'homePage.php' file in VScode.
