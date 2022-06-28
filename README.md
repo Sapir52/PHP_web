@@ -10,7 +10,7 @@ The goal of the project is to build a website that allows users to manage their 
 
 •	View events within a calendar.
 
-JQuery, PHP and MySQL are used.
+This Project was created with JQuery, javaScript, CSS, HTML, PHP and MySQL.
 
 ![1](https://user-images.githubusercontent.com/63209732/176039933-3d616531-890d-410c-88d8-f7b8236a2b9c.png)
 
