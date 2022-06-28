@@ -24,6 +24,8 @@ JQuery, PHP and MySQL are used.
 
 # Run
 
-Create a database named 'loginsystem' and tables named 'user' and 'event' in XAMPP (Described in the file 'db.sql').
+Open a web browser and type this http://localhost/phpmyadmin/ for open GUI for managing DB on your computer. 
+
+Create a database named 'loginsystem' and tables named 'user' and 'event' in XAMPP screen (Described in the file 'db.sql').
 
 Run the 'homePage.php' file in VScode.
