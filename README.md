@@ -1,4 +1,4 @@
-# PHP Web - Task management site
+# PHP - Task management site
 
 The goal of the project is to build a website that allows users to manage their tasks:
 
